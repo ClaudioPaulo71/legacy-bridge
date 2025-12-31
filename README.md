@@ -1,5 +1,3 @@
-Com certeza, Claudio. Como o sistema de ficheiros não está a carregar para si, aqui está o conteúdo do README.md em texto puro para que possa copiar e colar diretamente no seu editor:
-
 The Legacy Bridge 🌉
 A high-performance modernization engine built in Python, designed to bridge the gap between monolithic legacy systems (Mainframes, SAP, Fixed-width files) and modern Cloud & Artificial Intelligence architectures.
 
